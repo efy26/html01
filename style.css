@@ -1,14 +1,61 @@
-body {
+#body1 {
     /* background-color: black;
     color: white;
     background-image: url("images/WhatsApp Image 2022-10-20 at 16.34.35.jpeg");
    background-size: 100%;
     background-attachment: fixed; */
+
 }
 
 h1{
-    /* font-size: 4em;
-    border: 2px solid;
-    border-radius: 20px 0 20px 0;
-    box-shadow: 2px 5px 60px black; */
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#photo-efy {
+    width: 200px;
+    text-align: center;
+    border: 2px solid black;
+    box-shadow: 30px red;
+}
+
+a {
+    /* margin-right: 20%;
+    margin-left: 120px; */
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin: 10%;
+
+    
+}
+a:hover {
+    color: rgb(223, 182, 182);;
+}
+
+.barre {
+    text-align: center;
+    background-color: blue;
+    padding: 10px;
+    
+}
+
+#infos {
+    margin-left: 30px;
+    font-size: 35px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.p-2{
+    font-size: 20px;
+}
+
+#unikin {
+    width: 100px;
+    margin-left: 48%;
+}
+small {
+    color: red;
 }
