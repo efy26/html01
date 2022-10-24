@@ -1,4 +1,4 @@
-#body1 {
+body {
     /* background-color: black;
     color: white;
     background-image: url("images/WhatsApp Image 2022-10-20 at 16.34.35.jpeg");
@@ -6,22 +6,30 @@
     background-attachment: fixed; */
 
 }
-
+/* all h1 */
 h1{
     text-align: center;
     font-size: 40px;
     text-decoration: underline;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+/* and all h1 */
 
+
+
+/* photo page 1 */
 #photo-efy {
     width: 200px;
     text-align: center;
     border: 2px solid black;
     box-shadow: 30px red;
 }
+/* and photo page 1 */
 
-a {
+
+
+/* barrre de tache ecrits */
+.tachebare {
     /* margin-right: 20%;
     margin-left: 120px; */
     font-size: 20px;
@@ -31,31 +39,125 @@ a {
 
     
 }
+/* and barre de tache ecrits(a) */
+
+
+
+/* hover all link */
 a:hover {
     color: rgb(223, 182, 182);;
 }
+/* and hover all link */
 
+
+
+/* barre de tache general */
 .barre {
     text-align: center;
     background-color: blue;
     padding: 10px;
     
 }
+/* and barre de tache general */
 
+ 
+
+/* paragraphe page 1 */
 #infos {
     margin-left: 30px;
     font-size: 35px;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
+/* and paragraphe page 1 */
 
+
+
+/* paragraphe page 2 */
 .p-2{
     font-size: 20px;
 }
+/* and paragraphe page 2 */
 
+
+
+/* photo page 2 */
 #unikin {
     width: 100px;
     margin-left: 48%;
 }
+/* and photo page 2 */
+
+
+
+/* small page 1 */
 small {
     color: red;
 }
+/* and small page 1 */
+
+
+
+/* ordinal liste page 3 */
+ol {
+    font-size: 30px;
+    margin: 10px;
+}
+li {
+    border-left: 2px solid;
+}
+
+#li1 {
+    border-left-color: black;
+    border-left-width: 6px;
+    padding-left: 15px;
+}
+#Email:hover{
+    color: black;
+}
+
+#li2{
+    border-left-color: red;
+    border-left-width: 6px;
+    padding-left: 15px;
+}
+#Instagram:hover{
+    color: red;
+}
+
+#li3{
+    border-left-color: blue;
+    border-left-width: 6px;
+    padding-left: 15px;
+}
+#Facebook:hover{
+    color: blue;
+}
+
+#li4{
+    border-left-color: rgb(124, 124, 255);
+    border-left-width: 6px;
+    padding-left: 15px;
+}
+#Twitter:hover{
+    color: rgb(124, 124, 255);
+}
+
+#li5{
+    border-left-color: green;
+    border-left-width: 6px;
+    padding-left: 15px;
+}
+#Whatsapp:hover{
+    color: green;
+}
+
+
+#li6{
+    border-left-color: rgb(128, 128, 128);
+    border-left-width: 6px;
+    padding-left: 15px;
+}
+#t243829318798:hover{
+    color: rgb(128, 128, 128);
+}
+/* and ordinal liste page 3 */
