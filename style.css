@@ -1,9 +1,41 @@
 /* all h1 */
-h1{
+.principal-h1{
     text-align: center;
     font-size: 40px;
     text-decoration: underline;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(190, 131, 42);
+}
+
+.principal-h1-2 {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+}
+
+.principal-h1-3 {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+
+.h1-langue {
+    color: rgba(59, 36, 2, 0.791);
+    font-size: 25px;
+}
+
+.h1-formation {
+    color: rgb(143, 86, 0);
+    font-size: 20px;
+}
+
+.h1-exp {
+    color: rgb(0, 43, 3);
+    font-size: 15px;
 }
 /* and all h1 */
 
@@ -35,6 +67,9 @@ h1{
 
 
 /* hover all link */
+a {
+    text-decoration: none;
+}
 a:hover {
     color: rgb(223, 182, 182);;
 }
