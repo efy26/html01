@@ -2,7 +2,6 @@
 .principal-h1{
     text-align: center;
     font-size: 40px;
-    text-decoration: underline;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(190, 131, 42);
 }
@@ -10,7 +9,6 @@
 .principal-h1-2 {
     text-align: center;
     font-size: 40px;
-    text-decoration: underline;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: green;
 }
@@ -18,7 +16,6 @@
 .principal-h1-3 {
     text-align: center;
     font-size: 40px;
-    text-decoration: underline;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: red;
 }
@@ -144,6 +141,10 @@ li {
 #Email:hover{
     color: black;
 }
+
+/* #Email {
+    text-shadow: 10px 5px -5px blue;
+} */
 
 #li2{
     border-left-color: red;
