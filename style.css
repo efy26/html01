@@ -22,10 +22,11 @@ h1{
 .tachebare {
     /* margin-right: 20%;
     margin-left: 120px; */
-    font-size: 20px;
+    font-size: 25px;
     color: rgb(255, 255, 255);
     text-decoration: none;
     margin: 10%;
+    padding: 50px;
 
     
 }
@@ -46,6 +47,8 @@ a:hover {
     text-align: center;
     background-color: blue;
     padding: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     
 }
 /* and barre de tache general */
