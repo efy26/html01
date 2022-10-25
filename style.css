@@ -11,10 +11,8 @@ h1{
 
 /* photo page 1 */
 #photo-efy {
-    width: 200px;
-    text-align: center;
-    border: 2px solid black;
-    box-shadow: 30px red;
+    width: 400px;
+    border-radius: 40px;
 }
 /* and photo page 1 */
 
@@ -57,8 +55,8 @@ a:hover {
 /* paragraphe page 1 */
 #infos {
     margin-left: 30px;
-    font-size: 35px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 /* and paragraphe page 1 */
 
@@ -74,8 +72,9 @@ a:hover {
 
 /* photo page 2 */
 #unikin {
-    width: 100px;
-    margin-left: 48%;
+    width: 200px;
+    margin-left: 42%;
+    border-radius: 10px;
 }
 /* and photo page 2 */
 
